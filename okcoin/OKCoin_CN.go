@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	. "github.com/nntaoli-project/GoEx"
+	. "github.com/disac/GoEx"
 )
 
 const (

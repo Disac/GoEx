@@ -2,7 +2,7 @@ package yunbi
 
 import (
 	"net/http"
-	. "github.com/nntaoli-project/GoEx"
+	. "github.com/disac/GoEx"
 	"fmt"
 	"log"
 	"io/ioutil"

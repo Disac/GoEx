@@ -3,7 +3,7 @@ package yunbi
 import (
 	"testing"
 	"net/http"
-	. "github.com/nntaoli-project/GoEx"
+	. "github.com/disac/GoEx"
 )
 
 var (
